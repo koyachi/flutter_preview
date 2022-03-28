@@ -3,7 +3,7 @@
 	"displayName": "Flutter Preview",
 	"description": "Display a real-time preview of a Flutter widget while building it",
 	"publisher": "jamesblasco",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.46.0"
