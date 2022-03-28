@@ -23,7 +23,7 @@ dependencies:
   stream_channel: ^2.0.0
   shelf: ^0.7.7
   shelf_router: ^0.7.2
-  shelf_web_socket: ^0.2.3
+  shelf_web_socket: ^1.0.0
   shelf_static: ^0.2.8
   http_server: ^0.9.8+3
   mime: ^0.9.6+3
