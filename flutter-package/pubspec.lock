@@ -21,7 +21,7 @@ packages:
       name: args
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.6.0"
+    version: "2.3.0"
   async:
     dependency: "direct main"
     description:
@@ -91,7 +91,7 @@ packages:
       name: device_frame
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.2"
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:
@@ -122,7 +122,7 @@ packages:
       name: freezed_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.7.1"
+    version: "1.1.0"
   glob:
     dependency: transitive
     description:
@@ -136,35 +136,35 @@ packages:
       name: http
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.12.2"
+    version: "0.13.4"
   http_methods:
     dependency: transitive
     description:
       name: http_methods
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.0"
   http_parser:
     dependency: "direct main"
     description:
       name: http_parser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.1.4"
+    version: "4.0.0"
   http_server:
     dependency: "direct main"
     description:
       name: http_server
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.8+3"
+    version: "1.0.0"
   json_annotation:
     dependency: transitive
     description:
       name: json_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.1"
+    version: "4.4.0"
   json_rpc_2:
     dependency: "direct main"
     description:
@@ -199,7 +199,7 @@ packages:
       name: mime
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.6+3"
+    version: "1.0.0"
   package_config:
     dependency: transitive
     description:
@@ -214,13 +214,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  pedantic:
-    dependency: transitive
-    description:
-      name: pedantic
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.9.0"
   pub_semver:
     dependency: transitive
     description:
@@ -234,14 +227,14 @@ packages:
       name: shelf
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.7.7"
+    version: "1.2.0"
   shelf_router:
     dependency: "direct main"
     description:
       name: shelf_router
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.7.2"
+    version: "1.1.2"
   shelf_static:
     dependency: "direct main"
     description:
@@ -255,7 +248,7 @@ packages:
       name: shelf_web_socket
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.4+1"
+    version: "1.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
